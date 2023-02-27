@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Mateus Machado Costa",
+            "email": "mateusdoug@hotmail.com"
+        },
+        {
+            "id": 2,
+            "name": "Maria Ariadna Da Silva Viana",
+            "email": "mariaariadna@gmail.com"
+        }
+    ]
+}
